@@ -36,9 +36,6 @@ The goal of this project is to extract data from the PhonePe Pulse GitHub reposi
 ### Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request with any improvements or additional features.
 
-### Authors
-- [NANDHAKUMAR PERIYANNAN](https://github.com/NANDHAKUMAR-PERIYANNAN)
-
 **NAME** : NANDHAKUMAR PERIYANNAN
 
 [LINKEDIN](https://www.linkedin.com/in/nandhakumar-periyannan-0b7427203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPQHJoIDLT6Gkr27wujV5BA%3D%3D)
@@ -46,6 +43,10 @@ Contributions are welcome! Feel free to open an issue or submit a pull request w
 **BATCH**: MDET005
 
 **DOMAIN** : DATA SCIENCE
+
+### Authors
+- [NANDHAKUMAR PERIYANNAN](https://github.com/NANDHAKUMAR-PERIYANNAN)
+
 
 ### Acknowledgments
 - PhonePe Pulse GitHub repository contributors
