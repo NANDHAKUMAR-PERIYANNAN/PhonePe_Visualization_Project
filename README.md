@@ -39,6 +39,14 @@ Contributions are welcome! Feel free to open an issue or submit a pull request w
 ### Authors
 - [NANDHAKUMAR PERIYANNAN](https://github.com/NANDHAKUMAR-PERIYANNAN)
 
+**NAME** : NANDHAKUMAR PERIYANNAN
+
+[LINKEDIN](https://www.linkedin.com/in/nandhakumar-periyannan-0b7427203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPQHJoIDLT6Gkr27wujV5BA%3D%3D)
+
+**BATCH**: MDET005
+
+**DOMAIN** : DATA SCIENCE
+
 ### Acknowledgments
 - PhonePe Pulse GitHub repository contributors
 - Streamlit and Plotly development teams
