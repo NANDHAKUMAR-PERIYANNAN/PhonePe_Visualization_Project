@@ -677,14 +677,38 @@ def top_chart_registeredusers(table_name):
 
 #streamlit 
 st.set_page_config(layout="wide",)
-st.title("PHONEPE DATA EXPLORATION WITH VISUALIZATION")
+# st.title("PHONEPE DATA EXPLORATION WITH VISUALIZATION")
+st.markdown("<h1 style='text-align: center;'>PHONEPE DATA EXPLORATION WITH VISUALIZATION</h1>", unsafe_allow_html=True)
 
 with st.sidebar:
     
     select=option_menu('Main Menu',["HOME","DATA EXPLORATION","TOP CHARTS"])
     
-if select=="HOME":
-    pass
+if select == "HOME":
+    col1, col2 = st.columns([2, 3])  # Adjust column widths as needed
+
+    with col1:
+        st.header("PHONEPE")
+        st.write("Top transaction app in India")
+        st.subheader("FEATURES OF PHONEPE")
+        st.write("UPI Payments")
+        st.write("Wallet Service")
+        st.write("Bill Payments")
+        st.write("Recharge Services")
+        st.write("Money Transfer")
+        st.write("Insurance")
+        st.write("Investments")
+        st.write("Credit Services")
+
+    with col2:
+        image = "D:\GUVI\Capstone Project\Phonepe_project\phonepe logo.jpg"
+        st.markdown("<h1 style='text-align: left;'>PHONEPE</h1>", unsafe_allow_html=True)
+        st.image(image , use_column_width=True)  # Adjust width as needed
+        st.markdown(
+             "<style>img {max-width: 400px; max-height: 400px;}</style>", 
+            unsafe_allow_html=True
+        )
+
 
 elif select=="DATA EXPLORATION":
     tab1,tab2,tab3 =st.tabs(["Aggregated Analysis","Map Analysis","Top Analysis"])
